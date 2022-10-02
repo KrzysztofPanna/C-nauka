@@ -15,6 +15,8 @@ int main()
         time++;
         cout<<"You will dye in "<<time<<" hours.";
         cout<<" You will have "<< bacteries<<" bacteries"<<endl;
+
+
     }
     return 0;
 }
