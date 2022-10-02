@@ -1,6 +1,6 @@
 #include <iostream>
 #include <windows.h>   //zawiera Sleep <-- funkcja czekania programu
-
+#include <cstdlib>     //moze byc potrzebna do f.czyszczenia konsoli
 
 using namespace std;
 
