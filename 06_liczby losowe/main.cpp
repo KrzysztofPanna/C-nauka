@@ -11,7 +11,7 @@ int main()
     srand(time(NULL));  // pobranie czasu z systemu od 1.01.1970
                         // na podstawie tego powstanie liczba pseudoloowa
     liczba = rand()%100+1;
-    cout<<liczba;
+    //cout<<liczba;
 
 
     cout << "Guess my number !" << endl;
@@ -34,5 +34,6 @@ int main()
     }
 
     getchar();     //<-- czeka na klik zanim zamknie siê tak jak ->  system("pause")
+    getchar();
     return 0;
 }
