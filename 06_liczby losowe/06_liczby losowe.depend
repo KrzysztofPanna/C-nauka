@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1664715307 source:d:\codeblocks\zadania\00_nauka_od_zera\06_liczby losowe\main.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+
