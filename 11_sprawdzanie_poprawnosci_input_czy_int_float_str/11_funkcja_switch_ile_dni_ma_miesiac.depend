@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1665263128 source:d:\codeblocks\zadania\00_nauka_od_zera\11_funkcja_switch_ile_dni_ma_miesiac\main.cpp
+	<iostream>
+	<conio.h>
+

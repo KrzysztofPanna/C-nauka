@@ -6,7 +6,7 @@
 using namespace std;
 
 float x,y;
-char number;      //znak z klawiatury
+char number;      //znak z klawiatury (niekoniecznie cyfra, litera)
 
 int main()
 {
@@ -28,7 +28,7 @@ while(true)    //nieskonczona petla
     cout<<"4. Divide"<< endl;
     cout<<"5. EXIT"<< endl;
     cout<<"Choose: ";
-    number=getch();
+    number=getch();   // automatycznie pobiera znak z biblioteki (conio.h). jak cin>> tylko bez naciskania entera
 
     switch(number)
     {
